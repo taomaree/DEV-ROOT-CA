@@ -1,0 +1,12 @@
+{
+    "CN": "DEV-ROOT-CA-RSA",
+    "hosts": [],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [{
+        "C": "AA",
+        "OU": "CA"
+    }]
+}

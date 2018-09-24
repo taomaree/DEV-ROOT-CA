@@ -1,0 +1,16 @@
+{
+    "CN": "legacy",
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "hosts": [
+        "127.0.0.1",
+        "localhost",
+        "localhost.localdomain"
+    ],
+    "names": [{
+        "C": "AA",
+        "OU": "CA"
+    }]
+}
